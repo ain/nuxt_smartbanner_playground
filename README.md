@@ -4,7 +4,7 @@ Nuxt playground for smartbanner.js
 
 ## How to run?
 
-    $ npm run dev  -- -o
+    npm run dev  -- -o
 
 ## Licence
 
